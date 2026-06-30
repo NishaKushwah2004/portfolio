@@ -34,10 +34,10 @@ export const experience: Experience[] = [
   {
     id: 'e3',
     company: "Infosys Springboard",
-    role: "AI intern",
+    role: "AI/ML Intern",
     duration: "June 2026 - Present",
     location: "Remote , India",
-    description: "Developed an AI-powered platform to assist in identifying optimal locations for solar and wind energy deployment by analyzing environmental, geographical, and climate datasets. The solution leverages machine learning techniques to support data-driven decision-making for sustainable energy planning.",
+    description: "Currently developing an AI-powered platform to identify optimal locations for solar and wind energy deployment by analyzing environmental, geographical, and climate datasets. Leveraging machine learning techniques to support data-driven decision-making for sustainable renewable energy planning.",
     responsibilities: [
       "Processed and analyzed renewable energy datasets through data cleaning, preprocessing, and feature engineering to improve model performance.",
       "Assisted in developing and evaluating machine learning models for renewable energy potential prediction and site suitability assessment.",
