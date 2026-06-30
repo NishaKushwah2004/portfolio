@@ -2,8 +2,8 @@ import { Profile } from '../types';
 
 export const profile: Profile = {
   name: "Nisha Kushwah",
-  bio: "I'm a passionate Computer Science Engineering student and web developer who loves to create beautiful and functional websites. I enjoy learning new technologies and solving real-world problems through code, combining mathematical rigor with creative elegance.",
-  profilePicture: "https://lh3.googleusercontent.com/aida-public/AB6AXuCWtOie7VW3XYaMfXwQQIB8yjWin-SpPg2BUMahU-fJ_Nhg1EN4FlCBneX2uPkttaCB_mbHlfaKtZQr63d1Vquoku3kAxyXjo9ZNR-XODOEhtPeBUwo6-JwIP_jGp5HRmkqTqeyoUoeKzpp1IXrQcAV_h8eHoeJEOG5tL8RjeJDmB_HlP370lpB1GNV_do6S2aWtZN0IODcAu1cdXm_P9V7mIYbjKAAU46ijtt10J_kbwUUmH8rYtl5knQPX92f-MLJAqWG0fb_OUEc",
+  bio: "I'm a passionate Computer Science Engineering student, Full-Stack Developer, and aspiring AI Engineer who enjoys building intelligent, scalable, and user-focused digital solutions. My interests span Web Development, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.",
+  profilePicture: "",
   resumeLink: "#",
   roles: [
     "Computer Science Student",
@@ -15,13 +15,12 @@ export const profile: Profile = {
     "Artificial Intelligence & Machine Learning",
     "Responsive Web Design",
     "Data Structures & Algorithms",
-    "Open Source Contribution"
+    "Generative AI, Agentic AI and Automations"
   ],
   leadershipExperience: [
-    "National Cadet Corps (NCC) - Cadet Captain",
-    "Tech Club Lead - Organised annual hackathons"
+    "National Cadet Corps (NCC) - Cadet Captain (Under Officer)"
   ],
   email: "2004nishakushwah@gmail.com",
-  phone: "+91 98765 43210",
-  location: "Bhopal, Madhya Pradesh, India"
+  phone: "+91 74711 01731",
+  location: "Madhya Pradesh, India"
 };

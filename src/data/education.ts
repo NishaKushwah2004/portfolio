@@ -3,18 +3,26 @@ import { Education } from '../types';
 export const education: Education[] = [
   {
     id: 'ed1',
-    institution: "Bhopal Institute of Technology & Science",
+    institution: "Jabalpur Engineering College",
     degree: "Bachelor of Technology (B.Tech) in Computer Science & Engineering",
-    duration: "2022 - 2026",
-    grade: "CGPA: 8.9 / 10.0",
-    description: "Specialized in Artificial Intelligence, Software Engineering, and Database Management. Active leader in Tech Society, organizer of 2 annual hackathons, and Cadet Captain in National Cadet Corps (NCC)."
+    duration: "2023 - 2027",
+    grade: "CGPA: 8.2 / 10.0",
+    description: ""
   },
   {
     id: 'ed2',
-    institution: "St. Xavier's Senior Secondary School",
+    institution: "Jawahar Navodaya Vidyalaya",
     degree: "Higher Secondary Certificate (HSC) - PCM & Computer Science",
-    duration: "2020 - 2022",
+    duration: "2020 - 2021",
     grade: "Percentage: 94.8%",
-    description: "Ranked top 1% of school. Deeply interested in Physics, Chemistry, Mathematics, and Computer Science."
+    description: "Ranked 2nd position in class. Deeply interested in Physics, Chemistry, Mathematics, and Computer Science."
+  },
+  {
+    id: 'ed3',
+    institution: "Jawahar Navodaya Vidyalaya",
+    degree: "Higher Secondary Certificate (HSC) - PCM & Computer Science",
+    duration: "2018 - 2019",
+    grade: "Percentage: 95.6%",
+    description: "Ranked 4th position in class. Deeply interested in Physics, Chemistry, Mathematics, and Computer Science."
   }
 ];
