@@ -3,7 +3,7 @@ import { Plus, Brain, Info } from 'lucide-react';
 import { SkillCard } from '../components/SkillCard';
 import { Modal } from '../components/Modal';
 import { Button } from '../components/Button';
-import { Skill } from '../types';
+import { Skill } from '../types/types';
 
 interface SkillsProps {
   skills: Skill[];

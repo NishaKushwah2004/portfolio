@@ -3,7 +3,7 @@ import { Plus, FolderOpen, ArrowRight } from 'lucide-react';
 import { ProjectCard } from '../components/ProjectCard';
 import { Modal } from '../components/Modal';
 import { Button } from '../components/Button';
-import { Project } from '../types';
+import { Project } from '../types/types';
 
 interface ProjectsProps {
   projects: Project[];

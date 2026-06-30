@@ -1,4 +1,5 @@
-import { Project } from "../types";
+import { Project } from "../types/types";
+import { images } from "../assets/images";
 
 export const projects: Project[] = [
   {
@@ -6,7 +7,7 @@ export const projects: Project[] = [
     title: "GitHub Card Generator",
     description:
       "A full-stack AI-powered web application that generates personalized developer cards from any public GitHub profile. The application fetches GitHub profile data, analyzes repositories and programming languages using an AI agent, and creates a visually appealing developer card that can be downloaded or shared.",
-    image: "/projects/github-card-generator.png",
+    image: images.projects.githubCard,
     tags: [
       "AI Agents",
       "Developer Tools",
@@ -40,7 +41,7 @@ export const projects: Project[] = [
     title: "Movie Recommendation System",
     description:
       "A full-stack movie discovery and recommendation platform that combines machine learning with live data from The Movie Database (TMDB). Users can browse trending movies, search by keywords, explore detailed movie information, and receive personalized recommendations using TF-IDF content similarity and genre-based filtering.",
-    image: "/projects/movie-recommendation-system.png",
+    image: images.projects.movieRecommendation,
     tags: [
       "Machine Learning",
       "Recommendation System",

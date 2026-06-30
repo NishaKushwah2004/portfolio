@@ -140,14 +140,6 @@ export const Contact: React.FC = () => {
               </div>
             </div>
           </div>
-
-          <div className="p-4 bg-primary/5 border border-primary/10 rounded-xl flex gap-3 text-xs text-secondary font-medium items-start">
-            <Info size={16} className="text-primary flex-shrink-0 mt-0.5" />
-            <div>
-              <p className="font-semibold text-on-surface mb-0.5">Recruiter Config Guide</p>
-              <p className="leading-normal">To wire this up to real mailboxes, add your EmailJS Service, Template, and Public Keys into the environment variables panel.</p>
-            </div>
-          </div>
         </div>
 
         {/* Right Side: Message Form */}

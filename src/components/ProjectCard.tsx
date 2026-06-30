@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'motion/react';
 import { Github, ExternalLink, Video, Edit, Trash } from 'lucide-react';
-import { Project } from '../types';
+import { Project } from '../types/types';
 
 interface ProjectCardProps {
   project: Project;

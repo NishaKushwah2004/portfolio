@@ -3,7 +3,7 @@ import { Award, Plus, Calendar, Edit, Trash } from 'lucide-react';
 import { motion } from 'motion/react';
 import { Modal } from '../components/Modal';
 import { Button } from '../components/Button';
-import { Achievement } from '../types';
+import { Achievement } from '../types/types';
 
 interface AchievementsProps {
   achievements: Achievement[];

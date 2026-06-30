@@ -1,6 +1,6 @@
 import React from 'react';
 import * as Icons from 'lucide-react';
-import { SocialLink } from '../types';
+import { SocialLink } from '../types/types';
 import { navigationItems } from '../data/navigation';
 
 interface FooterProps {

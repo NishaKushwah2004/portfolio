@@ -1,10 +1,12 @@
-import { Profile } from '../types';
+import { Profile } from '../types/types';
+import { images } from '../assets/images';
+import resume from "../assets/resume/Nisha_Kushwah_Resume.pdf";
 
 export const profile: Profile = {
   name: "Nisha Kushwah",
   bio: "I'm a passionate Computer Science Engineering student, Full-Stack Developer, and aspiring AI Engineer who enjoys building intelligent, scalable, and user-focused digital solutions. My interests span Web Development, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.",
-  profilePicture: "",
-  resumeLink: "#",
+  profilePicture: images.profile.photo,
+  resumeLink: resume,
   roles: [
     "Computer Science Student",
     "Software Engineer",

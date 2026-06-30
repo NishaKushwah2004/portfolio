@@ -3,7 +3,7 @@ import { Plus, Briefcase } from 'lucide-react';
 import { ExperienceCard } from '../components/ExperienceCard';
 import { Modal } from '../components/Modal';
 import { Button } from '../components/Button';
-import { Experience } from '../types';
+import { Experience } from '../types/types';
 
 interface ExperienceProps {
   experienceList: Experience[];

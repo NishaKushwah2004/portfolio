@@ -1,4 +1,4 @@
-import { SocialLink } from '../types';
+import { SocialLink } from '../types/types';
 
 export const socials: SocialLink[] = [
   {
@@ -10,7 +10,7 @@ export const socials: SocialLink[] = [
   {
     id: 's2',
     platform: "LinkedIn",
-    url: "https://linkedin.com/in/nisha-kushwah",
+    url: "https://www.linkedin.com/in/nisha-kushwah",
     iconName: "Linkedin"
   },
   {

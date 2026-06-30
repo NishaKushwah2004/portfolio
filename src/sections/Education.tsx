@@ -3,7 +3,7 @@ import { GraduationCap, Plus, Calendar, Edit, Trash } from 'lucide-react';
 import { motion } from 'motion/react';
 import { Modal } from '../components/Modal';
 import { Button } from '../components/Button';
-import { Education } from '../types';
+import { Education } from '../types/types';
 
 interface EducationProps {
   educationList: Education[];

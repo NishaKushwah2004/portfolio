@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'motion/react';
 import { Briefcase, MapPin, Calendar, Edit, Trash } from 'lucide-react';
-import { Experience } from '../types';
+import { Experience } from '../types/types';
 
 interface ExperienceCardProps {
   exp: Experience;

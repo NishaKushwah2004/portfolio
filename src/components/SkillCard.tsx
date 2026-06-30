@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'motion/react';
 import { Edit, Trash } from 'lucide-react';
-import { Skill } from '../types';
+import { Skill } from '../types/types';
 
 interface SkillCardProps {
   skill: Skill;

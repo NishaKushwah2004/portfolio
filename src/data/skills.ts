@@ -1,4 +1,4 @@
-import { Skill } from '../types';
+import { Skill } from '../types/types';
 
 export const skills: Skill[] = [
   // Programming Languages

@@ -21,7 +21,7 @@ import { certifications as initialCertifications } from './data/certifications';
 import { socials as initialSocials } from './data/socials';
 
 // TypeScript Interfaces
-import { Project, Skill, Experience, Education, Achievement, Certification, SocialLink } from './types';
+import { Project, Skill, Experience, Education, Achievement, Certification, SocialLink } from './types/types';
 
 export default function App() {
   // Optional Admin Mode (defaults to false for visitors, but fully toggleable in the Navigation bar!)
