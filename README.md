@@ -113,7 +113,7 @@ src/
 If you'd like to collaborate, discuss opportunities, or simply connect, feel free to reach out.
 
 - 📧 Email: 2004nishakushwah@gmail.com
-- 💼 LinkedIn: YOUR_LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/nisha-kushwah
 - 🐙 GitHub: https://github.com/NishaKushwah2004
 
 ---
